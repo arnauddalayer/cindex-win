@@ -50,6 +50,7 @@ Thumbs.db
 
 # IDE files
 .vs/
+Debug/
 
 # Installer Specific Files
 # Ignore build files in following directories

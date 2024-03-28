@@ -223,7 +223,7 @@
     </Midl>
     <ClCompile>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>..\Libraries\expat\include;..\Libraries\icu\win32include;..\Library sources\hunspell-1.6.2\src\hunspell;..\Libraries\libiconv\include;..\Libraries\WinSparkle\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Libraries\expat\include;..\Libraries\icu\win32include;..\Libraries\hunspell\include;..\Libraries\libiconv\include;..\Libraries\WinSparkle\include</AdditionalIncludeDirectories>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <PrecompiledHeaderOutputFile>cindex.pch</PrecompiledHeaderOutputFile>
